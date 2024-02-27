@@ -5,8 +5,7 @@
   "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
-    "build:parcel": "parcel build index.html",
-    "build": "npm run build:parcel",
+    "build": "npx parcel index.html",
     "test": "jest"
   },
   "keywords": [],

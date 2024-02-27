@@ -2,7 +2,7 @@ import React from 'react';
 import "./body.css";
 import Header from './Header';
 import Card from './Card';
-import Card2 from './card2';
+import Card2 from './Card2';
 import { Section1 } from './Section1';
 import { resList1, resList2 } from '../utils/mockData';
 

@@ -2,7 +2,7 @@
   "name": "code",
   "version": "1.0.0",
   "description": "this is namaste react by surajbhan",
-  "main": "App.js",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",

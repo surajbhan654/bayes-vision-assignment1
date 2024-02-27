@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.html",
     "build:parcel": "parcel build index.html",
-    "build": "npm run clean && npm run build:parcel",
+    "build": "npm run build:parcel",
     "test": "jest"
   },
   "keywords": [],
